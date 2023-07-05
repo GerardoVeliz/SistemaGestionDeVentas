@@ -1,0 +1,1334 @@
+# depslib dependency file v1.0
+1682446584 source:c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1682446584 c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\fecha.h
+	<string>
+
+1683934857 source:c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"Alquiler.h"
+
+1683863270 source:c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\persona.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Persona.h"
+
+1683863012 c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\persona.h
+
+1683865507 source:c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\cliente.cpp
+	<iostream>
+	<locale.h>
+	"Cliente.h"
+
+1683864498 c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\cliente.h
+	"Persona.h"
+
+1683868053 source:c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\usuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Usuario.h"
+
+1683867909 c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\usuario.h
+	"Persona.h"
+
+1683926720 source:c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\venta.cpp
+	<iostream>
+	<locale.h>
+	"Venta.h"
+	"Fecha.h"
+	"Cliente.h"
+	"Funciones.h"
+
+1683901706 c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\venta.h
+	"Fecha.h"
+	"Cliente.h"
+
+1683934857 source:c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\funciones.cpp
+	<iostream>
+	<locale.h>
+	"Libro.h"
+	"Funciones.h"
+
+1683928665 c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\funciones.h
+
+1683934728 source:c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\libro.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Libro.h"
+
+1683934708 c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\libro.h
+
+1683926639 c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\alquiler.h
+	"Cliente.h"
+	"Fecha.h"
+
+1683934708 source:c:\users\gerar\onedrive\escritorio\laboratorio 2 2023\proyectofinal\alquiler.cpp
+	<iostream>
+	<locale.h>
+	"Alquiler.h"
+	"Cliente.h"
+	"Fecha.h"
+	"Funciones.h"
+
+1683934708 source:c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\alquiler.cpp
+	<iostream>
+	<locale.h>
+	"Alquiler.h"
+	"Cliente.h"
+	"Fecha.h"
+	"Funciones.h"
+
+1683926639 c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\alquiler.h
+	"Cliente.h"
+	"Fecha.h"
+
+1683864498 c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\cliente.h
+	"Persona.h"
+
+1683863012 c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\persona.h
+
+1682446584 c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\fecha.h
+	<string>
+
+1684286374 c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\funciones.h
+
+1683865507 source:c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\cliente.cpp
+	<iostream>
+	<locale.h>
+	"Cliente.h"
+
+1682446584 source:c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1684378075 source:c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\funciones.cpp
+	<iostream>
+	<locale.h>
+	"Libro.h"
+	"Funciones.h"
+
+1683934708 c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\libro.h
+
+1683934728 source:c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\libro.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Libro.h"
+
+1684283725 source:c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"Alquiler.h"
+
+1683867909 c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\usuario.h
+	"Persona.h"
+
+1684280371 c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\venta.h
+	"Fecha.h"
+	"Cliente.h"
+
+1683863270 source:c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\persona.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Persona.h"
+
+1683868053 source:c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\usuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Usuario.h"
+
+1683926720 source:c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\venta.cpp
+	<iostream>
+	<locale.h>
+	"Venta.h"
+	"Fecha.h"
+	"Cliente.h"
+	"Funciones.h"
+
+1684280686 source:c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\archivoventa.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Libro.h"
+	"ArchivoVenta.h"
+
+1684280371 c:\users\gera-\onedrive\escritorio\proyectofinal\proyectofinal\archivoventa.h
+	"Venta.h"
+	"Libro.h"
+
+1685134181 source:c:\users\gerar\onedrive\escritorio\proyectofinal\alquiler.cpp
+	<iostream>
+	<locale.h>
+	"Alquiler.h"
+	"Cliente.h"
+	"Fecha.h"
+	"Funciones.h"
+	"archivoAlquiler.h"
+
+1683926640 c:\users\gerar\onedrive\escritorio\proyectofinal\alquiler.h
+	"Cliente.h"
+	"Fecha.h"
+
+1683864500 c:\users\gerar\onedrive\escritorio\proyectofinal\cliente.h
+	"Persona.h"
+
+1683863014 c:\users\gerar\onedrive\escritorio\proyectofinal\persona.h
+
+1682446584 c:\users\gerar\onedrive\escritorio\proyectofinal\fecha.h
+	<string>
+
+1684604595 c:\users\gerar\onedrive\escritorio\proyectofinal\funciones.h
+
+1685130773 source:c:\users\gerar\onedrive\escritorio\proyectofinal\archivoventa.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Libro.h"
+	"ArchivoVenta.h"
+
+1684541768 c:\users\gerar\onedrive\escritorio\proyectofinal\venta.h
+	"Fecha.h"
+	"Cliente.h"
+
+1683934710 c:\users\gerar\onedrive\escritorio\proyectofinal\libro.h
+
+1685134595 c:\users\gerar\onedrive\escritorio\proyectofinal\archivoventa.h
+	"Venta.h"
+	"Libro.h"
+
+1683865508 source:c:\users\gerar\onedrive\escritorio\proyectofinal\cliente.cpp
+	<iostream>
+	<locale.h>
+	"Cliente.h"
+
+1682446584 source:c:\users\gerar\onedrive\escritorio\proyectofinal\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1683934730 source:c:\users\gerar\onedrive\escritorio\proyectofinal\libro.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Libro.h"
+
+1685130197 source:c:\users\gerar\onedrive\escritorio\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"Alquiler.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+
+1683867910 c:\users\gerar\onedrive\escritorio\proyectofinal\usuario.h
+	"Persona.h"
+
+1683863272 source:c:\users\gerar\onedrive\escritorio\proyectofinal\persona.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Persona.h"
+
+1683868054 source:c:\users\gerar\onedrive\escritorio\proyectofinal\usuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Usuario.h"
+
+1685134149 source:c:\users\gerar\onedrive\escritorio\proyectofinal\venta.cpp
+	<iostream>
+	<locale.h>
+	"Venta.h"
+	"Fecha.h"
+	"Cliente.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"archivoStockVenta.h"
+
+1684604605 source:c:\users\gerar\onedrive\escritorio\proyectofinal\funciones.cpp
+	<iostream>
+	<locale.h>
+	"Libro.h"
+	"Funciones.h"
+	<cstring>
+	"ArchivoVenta.h"
+	<stdio.h>
+	<stdlib.h>
+
+1684598217 source:c:\users\gerar\onedrive\escritorio\proyectofinal\menu.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"Alquiler.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+
+1684539168 c:\users\gerar\onedrive\escritorio\proyectofinal\menu.h
+
+1685134370 source:c:\users\gerar\onedrive\escritorio\proyectofinal\archivoalquiler.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoAlquiler.h"
+
+1684607094 c:\users\gerar\onedrive\escritorio\proyectofinal\archivoalquiler.h
+	"Alquiler.h"
+
+1685132812 source:c:\users\gerar\onedrive\escritorio\proyectofinal\archivostockalquiler.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoStockAlquiler.h"
+	"Libro.h"
+
+1685132484 c:\users\gerar\onedrive\escritorio\proyectofinal\archivostockalquiler.h
+	"Libro.h"
+
+1685134127 source:c:\users\gerar\onedrive\escritorio\proyectofinal\archivostockventa.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoStockVenta.h"
+	"Libro.h"
+
+1685134127 c:\users\gerar\onedrive\escritorio\proyectofinal\archivostockventa.h
+	"Libro.h"
+
+1684603441 source:c:\users\gerar\onedrive\escritorio\proyectofinal\archivousuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoUsuario.h"
+
+1684603034 c:\users\gerar\onedrive\escritorio\proyectofinal\archivousuario.h
+
+1685134181 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\alquiler.cpp
+	<iostream>
+	<locale.h>
+	"Alquiler.h"
+	"Cliente.h"
+	"Fecha.h"
+	"Funciones.h"
+	"archivoAlquiler.h"
+
+1683926640 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\alquiler.h
+	"Cliente.h"
+	"Fecha.h"
+
+1683864500 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\cliente.h
+	"Persona.h"
+
+1683863014 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\persona.h
+
+1682446584 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\fecha.h
+	<string>
+
+1684604595 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\funciones.h
+
+1684607094 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\archivoalquiler.h
+	"Alquiler.h"
+
+1685134370 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\archivoalquiler.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoAlquiler.h"
+
+1685132812 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\archivostockalquiler.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoStockAlquiler.h"
+	"Libro.h"
+
+1685132484 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\archivostockalquiler.h
+	"Libro.h"
+
+1685632055 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\libro.h
+
+1685134127 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\archivostockventa.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoStockVenta.h"
+	"Libro.h"
+
+1685134127 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\archivostockventa.h
+	"Libro.h"
+
+1684603441 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\archivousuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoUsuario.h"
+
+1684603034 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\archivousuario.h
+
+1685134602 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\archivoventa.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Libro.h"
+	"ArchivoVenta.h"
+
+1684541768 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\venta.h
+	"Fecha.h"
+	"Cliente.h"
+
+1685134595 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\archivoventa.h
+	"Venta.h"
+	"Libro.h"
+
+1683865508 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\cliente.cpp
+	<iostream>
+	<locale.h>
+	"Cliente.h"
+
+1682446584 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1684604605 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\funciones.cpp
+	<iostream>
+	<locale.h>
+	"Libro.h"
+	"Funciones.h"
+	<cstring>
+	"ArchivoVenta.h"
+	<stdio.h>
+	<stdlib.h>
+
+1683934730 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\libro.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Libro.h"
+
+1685130197 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\main.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"Alquiler.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+
+1685631951 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\usuario.h
+	"Persona.h"
+
+1684539168 c:\users\gerar\onedrive\escritorio\proyectofina lv.12\menu.h
+
+1684598217 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\menu.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"Alquiler.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+
+1683863272 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\persona.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Persona.h"
+
+1683868054 source:c:\users\gerar\onedrive\escritorio\proyectofina lv.12\usuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Usuario.h"
+
+1685134127 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\archivostockventa.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoStockVenta.h"
+	"Libro.h"
+
+1685134127 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\archivostockventa.h
+	"Libro.h"
+
+1686797687 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\libro.h
+	"Autor.h"
+
+1686790037 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\archivousuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoUsuario.h"
+
+1686790032 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\archivousuario.h
+	"Usuario.h"
+
+1685134602 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\archivoventa.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Libro.h"
+	"ArchivoVenta.h"
+
+1686883693 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\venta.h
+	"Fecha.h"
+	"Cliente.h"
+
+1682446584 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\fecha.h
+	<string>
+
+1683864500 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\cliente.h
+	"Persona.h"
+
+1683863014 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\persona.h
+
+1686792497 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\archivoventa.h
+	"Venta.h"
+	"Libro.h"
+
+1683865508 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\cliente.cpp
+	<iostream>
+	<locale.h>
+	"Cliente.h"
+
+1682446584 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1686792497 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\funciones.cpp
+	<iostream>
+	<locale.h>
+	"Libro.h"
+	"Funciones.h"
+	<cstring>
+	"ArchivoVenta.h"
+	<stdio.h>
+	<stdlib.h>
+
+1684604595 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\funciones.h
+
+1686798789 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\libro.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Libro.h"
+	"archivoStockVenta.h"
+	"Autor.h"
+	"archivoAutor.h"
+
+1686788905 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\main.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+
+1685631951 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\usuario.h
+	"Persona.h"
+
+1684539168 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\menu.h
+
+1686788915 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\menu.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+
+1683863272 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\persona.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Persona.h"
+
+1683868054 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\usuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Usuario.h"
+
+1686794736 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\archivoautor.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoAutor.h"
+
+1686794725 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\archivoautor.h
+	"Autor.h"
+
+1686789920 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\archivocliente.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoCliente.h"
+
+1686789914 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\archivocliente.h
+	"Cliente.h"
+
+1686789880 c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\autor.h
+	"Persona.h"
+
+1686792017 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\autor.cpp
+	<iostream>
+	<cstring>
+	"Autor.h"
+	"archivoAutor.h"
+
+1686791805 source:c:\users\gerar\onedrive\escritorio\escritorio2\proyectofina lv.12\venta.cpp
+	<iostream>
+	<locale.h>
+	"Venta.h"
+	"Fecha.h"
+	"Cliente.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"archivoStockVenta.h"
+
+1687016378 D
+	"Cliente.h"
+	"archivoCliente.h"
+
+1687216132 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\archivoautor.cpp
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\archivoautor.cpp
+
+1687016378 adcad3939e66a6ad69369470676c9458c0cb0
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoAutor.h"
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoCliente.h"
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoStockVenta.h"
+	"Libro.h"
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoUsuario.h"
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Libro.h"
+	"ArchivoVenta.h"
+	<iostream>
+	<cstring>
+	"Autor.h"
+	"archivoAutor.h"
+	<iostream>
+	<locale.h>
+	"Cliente.h"
+	<iostream>
+	<locale.h>
+	"Libro.h"
+	"Funciones.h"
+	<cstring>
+	"ArchivoVenta.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Libro.h"
+	"archivoStockVenta.h"
+	"Autor.h"
+	"archivoAutor.h"
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Persona.h"
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Usuario.h"
+	<iostream>
+	<locale.h>
+	"Venta.h"
+	"Fecha.h"
+	"Cliente.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"archivoStockVenta.h"
+
+1687216131 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\archivoautor.h
+	"Autor.h"
+
+1686789880 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\autor.h
+	"Persona.h"
+
+1683863014 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\persona.h
+
+1687401303 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\archivocliente.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoCliente.h"
+	"Cliente.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\archivoautor.h
+	"Autor.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\autor.h
+	"Persona.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\persona.h
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\archivocliente.cpp
+
+1687363406 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\archivocliente.h
+	"Cliente.h"
+
+1687387601 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\cliente.h
+	"Persona.h"
+
+1687461796 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\archivostockventa.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoStockVenta.h"
+	"Libro.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\archivocliente.h
+	"Cliente.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\cliente.h
+	"Persona.h"
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\archivostockventa.cpp
+
+1687462172 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\archivostockventa.h
+	"Libro.h"
+	<string>
+
+1687368926 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\libro.h
+	"Autor.h"
+
+1687216570 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\archivousuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoUsuario.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\archivostockventa.h
+	"Libro.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\libro.h
+	"Autor.h"
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\archivousuario.cpp
+
+1687216570 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\archivousuario.h
+	"Usuario.h"
+
+1685631951 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\usuario.h
+	"Persona.h"
+
+1687398590 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\archivoventa.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Libro.h"
+	"ArchivoVenta.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\archivousuario.h
+	"Usuario.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\usuario.h
+	"Persona.h"
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\archivoventa.cpp
+
+1687460862 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\venta.h
+	"Fecha.h"
+	"Cliente.h"
+
+1682446584 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\fecha.h
+	<string>
+
+1687294991 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\archivoventa.h
+	"Venta.h"
+	"Libro.h"
+
+1687368529 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\autor.cpp
+	<iostream>
+	<cstring>
+	"Autor.h"
+	"archivoAutor.h"
+
+1687016350 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\venta.h
+	"Fecha.h"
+	"Cliente.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\fecha.h
+	<string>
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\archivoventa.h
+	"Venta.h"
+	"Libro.h"
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\autor.cpp
+
+1687387640 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\cliente.cpp
+	<iostream>
+	<locale.h>
+	"Cliente.h"
+	"ArchivoCliente.h"
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\cliente.cpp
+
+1682446584 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1687461294 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\funciones.cpp
+	<iostream>
+	<locale.h>
+	"Libro.h"
+	"Funciones.h"
+	<cstring>
+	"ArchivoVenta.h"
+	<stdio.h>
+	<stdlib.h>
+	"Venta.h"
+	<fstream>
+	<iomanip>
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\funciones.cpp
+
+1687452752 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\funciones.h
+	"Venta.h"
+
+1687375434 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\libro.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Libro.h"
+	"archivoStockVenta.h"
+	"Autor.h"
+	"archivoAutor.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\funciones.h
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\libro.cpp
+
+1686788915 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\menu.cpp
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\main.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+
+1687015029 c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\menu.h
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\menu.cpp
+
+1684539168 c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\menu.h
+
+1683863272 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\persona.cpp
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\persona.cpp
+
+1683868054 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\usuario.cpp
+
+1687015029 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\usuario.cpp
+
+1687461411 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+	"archivoStockVenta.h"
+	"archivoCliente.h"
+	"Cliente.h"
+	<iomanip>
+
+1687460862 source:c:\users\gerar\onedrive\escritorio\escritorio\repo proyecto final\proyectofinal\venta.cpp
+	<iostream>
+	<locale.h>
+	"Venta.h"
+	"Fecha.h"
+	"Cliente.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"archivoStockVenta.h"
+	"archivoCliente.h"
+
+1687016378 source:c:\users\gera-\onedrive\documentos\proyecto final\proyectofinal--v2.0\venta.cpp
+
+1687016378 iente.h"
+
+1687216132 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\archivoautor.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoAutor.h"
+
+1687216131 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\archivoautor.h
+	"Autor.h"
+
+1686789880 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\autor.h
+	"Persona.h"
+
+1683863014 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\persona.h
+
+1687401303 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\archivocliente.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoCliente.h"
+	"Cliente.h"
+
+1687363406 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\archivocliente.h
+	"Cliente.h"
+
+1687387601 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\cliente.h
+	"Persona.h"
+
+1687474106 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\archivostockventa.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoStockVenta.h"
+	"Libro.h"
+
+1687469790 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\archivostockventa.h
+	"Libro.h"
+	<cstring>
+	<string.h>
+
+1687368926 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\libro.h
+	"Autor.h"
+
+1687216570 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\archivousuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoUsuario.h"
+
+1687216570 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\archivousuario.h
+	"Usuario.h"
+
+1685631951 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\usuario.h
+	"Persona.h"
+
+1687398590 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\archivoventa.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Libro.h"
+	"ArchivoVenta.h"
+
+1687460862 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\venta.h
+	"Fecha.h"
+	"Cliente.h"
+
+1682446584 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\fecha.h
+	<string>
+
+1687294991 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\archivoventa.h
+	"Venta.h"
+	"Libro.h"
+
+1687368529 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\autor.cpp
+	<iostream>
+	<cstring>
+	"Autor.h"
+	"archivoAutor.h"
+
+1687387640 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\cliente.cpp
+	<iostream>
+	<locale.h>
+	"Cliente.h"
+	"ArchivoCliente.h"
+
+1682446584 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1687375434 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\libro.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Libro.h"
+	"archivoStockVenta.h"
+	"Autor.h"
+	"archivoAutor.h"
+
+1687474152 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+	"archivoStockVenta.h"
+	"archivoCliente.h"
+	"Cliente.h"
+	<iomanip>
+
+1687452752 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\funciones.h
+	"Venta.h"
+
+1684539168 c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\menu.h
+
+1686788915 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\menu.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+
+1683863272 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\persona.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Persona.h"
+
+1683868054 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\usuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Usuario.h"
+
+1687475338 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\venta.cpp
+	<iostream>
+	<locale.h>
+	"Venta.h"
+	"Fecha.h"
+	"Cliente.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"archivoStockVenta.h"
+	"archivoCliente.h"
+
+1687473300 source:c:\users\gera-\onedrive\escritorio\escritorio\menuretro\proyectofinal\proyectofinal\funciones.cpp
+	<iostream>
+	<locale.h>
+	"Libro.h"
+	"Funciones.h"
+	<cstring>
+	"ArchivoVenta.h"
+	<stdio.h>
+	<stdlib.h>
+	"Venta.h"
+	<fstream>
+	<iomanip>
+	"archivoStockVenta.h"
+
+1687997670 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\archivoautor.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoAutor.h"
+
+1687997422 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\archivoautor.h
+	"Autor.h"
+	<string>
+
+1686789882 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\autor.h
+	"Persona.h"
+
+1683863014 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\persona.h
+
+1687968017 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\archivocliente.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoCliente.h"
+	"Cliente.h"
+	"Funciones.h"
+
+1687363408 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\archivocliente.h
+	"Cliente.h"
+
+1687387602 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\cliente.h
+	"Persona.h"
+
+1688061467 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\archivostockventa.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoStockVenta.h"
+	"Libro.h"
+	"archivoAutor.h"
+	"ArchivoVenta.h"
+	<iomanip>
+	"Funciones.h"
+	"Usuario.h"
+	"archivoUsuario.h"
+	<conio.h>
+
+1688061467 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\archivostockventa.h
+	"Libro.h"
+	<cstring>
+	<string.h>
+	"Venta.h"
+
+1687827629 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\libro.h
+	"Autor.h"
+
+1688055433 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\archivousuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"archivoUsuario.h"
+	"funciones.h"
+
+1688055401 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\archivousuario.h
+	"Usuario.h"
+
+1688055401 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\usuario.h
+	"Persona.h"
+
+1688061968 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\archivoventa.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Libro.h"
+	"ArchivoVenta.h"
+	"archivoStockVenta.h"
+	"Funciones.h"
+	<iomanip>
+
+1687798644 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\venta.h
+	"Fecha.h"
+	"Cliente.h"
+
+1682446584 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\fecha.h
+	<string>
+
+1687985436 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\archivoventa.h
+	"Venta.h"
+	"Libro.h"
+
+1687368530 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\autor.cpp
+	<iostream>
+	<cstring>
+	"Autor.h"
+	"archivoAutor.h"
+
+1687387642 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\cliente.cpp
+	<iostream>
+	<locale.h>
+	"Cliente.h"
+	"ArchivoCliente.h"
+
+1682446584 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1687832290 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\libro.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Libro.h"
+	"archivoStockVenta.h"
+	"Autor.h"
+	"archivoAutor.h"
+
+1688062656 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\menu.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdio>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"archivoUsuario.h"
+	<conio.h>
+	"archivoStockVenta.h"
+	"archivoAutor.h"
+	"Menu.h"
+
+1687985396 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\funciones.h
+	"Venta.h"
+	<string>
+
+1687993084 c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\menu.h
+
+1683863272 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\persona.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Persona.h"
+
+1688056304 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\usuario.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"Usuario.h"
+	"archivoUsuario.h"
+
+1687897668 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\venta.cpp
+	<iostream>
+	<locale.h>
+	"Venta.h"
+	"Fecha.h"
+	"Cliente.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"archivoStockVenta.h"
+	"archivoCliente.h"
+	<cstring>
+
+1687994456 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\funciones.cpp
+	<iostream>
+	<locale.h>
+	"Libro.h"
+	"Funciones.h"
+	<cstring>
+	"ArchivoVenta.h"
+	<stdio.h>
+	<stdlib.h>
+	"Venta.h"
+	<fstream>
+	<iomanip>
+	"archivoStockVenta.h"
+	<filesystem>
+	<string>
+	"archivoUsuario.h"
+	<conio.h>
+
+1687998967 source:c:\users\gerar\onedrive\escritorio\proyectofinal\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Venta.h"
+	"Libro.h"
+	"Funciones.h"
+	"ArchivoVenta.h"
+	"Menu.h"
+	"archivoStockVenta.h"
+	"archivoCliente.h"
+	"Cliente.h"
+	<iomanip>
+	"archivoUsuario.h"
+	"archivoAutor.h"
+
